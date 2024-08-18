@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Prasad Shinde</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="500" src=https://rse-academy.com/wp-content/uploads/2023/11/coding-3d-animation.png>
+<img align="center" alt="Coding" width="100%" src="https://rse-academy.com/wp-content/uploads/2023/11/coding-3d-animation.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-shinde9595&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-shinde9595" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-shinde9595" alt="prasad-shinde9595" /></a> </p>
